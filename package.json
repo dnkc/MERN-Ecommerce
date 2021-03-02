@@ -1,6 +1,10 @@
 {
   "name": "work-folder",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.15.0",
+    "npm": "7.5.4"
+  },
   "description": "MERN ProShop Website",
   "main": "server.js",
   "type": "module",
